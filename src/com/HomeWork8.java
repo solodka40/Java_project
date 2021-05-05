@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class HomeWork8 {
     public static void main(String[] args) {
         int an,k;
-        //int [] arr;
         Scanner q = new Scanner(System.in);
         System.out.println("Введите любое целое положительное число:");
         an = q.nextInt();
